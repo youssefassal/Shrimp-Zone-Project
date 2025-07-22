@@ -1,0 +1,81 @@
+.contact-container {
+    position: relative;
+    background-image: url('../../images/restaurant.jpg'); /* update the path as needed */
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.contact-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(30, 30, 30, 0.699); /* semi-transparent dark overlay */
+    z-index: 1;
+}
+
+.contact-caption {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.contact-title {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+.contact-paragraph {
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-align: center;
+    width: 60%;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    background: none;
+    position: static;
+    top: unset;
+    left: unset;
+    transform: none;
+    z-index: auto;
+}
+
+
+.call-button:hover {
+    background-color: #ff8c00 !important;
+    color: #222 !important;
+}
+
+.bg-secondary-light{
+    background-color: #ebeef1 !important;
+}
+
+.btn, .view-menu-btn, .contactus-btn, .footer-callnow-btn, .whats-btn {
+  transition: background 0.2s, color 0.2s, transform 0.15s;
+}
+.btn:hover, .btn:focus,
+.view-menu-btn:hover, .view-menu-btn:focus,
+.contactus-btn:hover, .contactus-btn:focus,
+.footer-callnow-btn:hover, .footer-callnow-btn:focus,
+.whats-btn:hover, .whats-btn:focus {
+  transform: scale(1.04);
+  filter: brightness(1.08);
+}

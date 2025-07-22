@@ -1,0 +1,120 @@
+.footer{
+    background-color: #000; /* Ensure black background */
+    width: 100%;
+}
+
+.footer-img{
+    height: 50vh;
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    text-align: center;
+}
+
+.bg-whats{
+    background-color: #25D366;
+}
+
+.whats-btn {
+  background-color: #25D366 !important;
+  color: #222 !important;               
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  transition: background 0.2s;
+}
+
+.whats-btn:hover, .whats-btn:focus {
+  background-color: #128C7E !important;
+  color: #222 !important;
+}
+
+.logo-footer{
+    width: 300px;
+    /* height: 50px; */
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.footer-callnow-btn {
+  background-color: rgb(102, 196, 250) !important;
+  color: white !important;  
+  width: 200px;             
+  font-weight: 600;
+  border: none;
+  border-radius: 1000px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  transition: background 0.2s;
+}
+
+.footer-callnow-btn:hover, .footer-callnow-btn:focus {
+  background-color: rgb(70, 180, 243) !important;
+  color: #222 !important;
+}
+
+.follow-icon-facebook,
+.follow-icon-instagram,
+.follow-icon-youtube,
+.follow-icon-tiktok {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-size: 1.5rem;
+    transition: background 0.2s;
+}
+
+.follow-icon-facebook {
+    background: #3b5998; /* Facebook blue */
+    color: #fff;
+}
+
+.follow-icon-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    color: #fff;
+}
+
+.follow-icon-youtube {
+    background: #ff0000; /* YouTube red */
+    color: #fff;
+}
+
+.follow-icon-tiktok {
+    background: #f83f3f; /* TikTok black */
+    color: #fff;
+}
+
+.follow-icon-facebook:hover,
+.follow-icon-instagram:hover,
+.follow-icon-youtube:hover,
+.follow-icon-tiktok:hover {
+    opacity: 0.8;
+}
+
+.btn, .view-menu-btn, .contactus-btn, .footer-callnow-btn, .whats-btn {
+  transition: background 0.2s, color 0.2s, transform 0.15s;
+}
+.btn:hover, .btn:focus,
+.view-menu-btn:hover, .view-menu-btn:focus,
+.contactus-btn:hover, .contactus-btn:focus,
+.footer-callnow-btn:hover, .footer-callnow-btn:focus,
+.whats-btn:hover, .whats-btn:focus {
+  transform: scale(1.04);
+  filter: brightness(1.08);
+}
+
