@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Shrimp-Zone-Project/static/css/main.f38371fa.css",
+    "main.js": "/Shrimp-Zone-Project/static/js/main.a2440d2e.js",
+    "static/js/453.6cf27f8d.chunk.js": "/Shrimp-Zone-Project/static/js/453.6cf27f8d.chunk.js",
+    "static/media/shrimp plate.jpg": "/Shrimp-Zone-Project/static/media/shrimp plate.8953f27a531ee66d40e6.jpg",
+    "static/media/shutterstock_1176110662.jpg": "/Shrimp-Zone-Project/static/media/shutterstock_1176110662.b696600e296288bf2a66.jpg",
+    "static/media/511970746_762353696364200__n.jpg": "/Shrimp-Zone-Project/static/media/511970746_762353696364200_1864559626864625750_n.86cd42a62acbd0272710.jpg",
+    "static/media/del1.jpg": "/Shrimp-Zone-Project/static/media/del1.a7d8cc3cea215dd5d28a.jpg",
+    "static/media/logo.jpg": "/Shrimp-Zone-Project/static/media/logo.16c419a1932c6afdf2c6.jpg",
+    "static/media/info.jpg": "/Shrimp-Zone-Project/static/media/info.381daea4a0fec57efe2d.jpg",
+    "static/media/shrimp stiks.jpg": "/Shrimp-Zone-Project/static/media/shrimp stiks.7e5d5b1f50ace2c6bdb1.jpg",
+    "static/media/shrimp-zone_menu_4.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_4.949893acf6d068abd39b.jpg",
+    "static/media/shrimp-zone_menu_2.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_2.e77d361a1059d36c86cd.jpg",
+    "static/media/shrimp-zone_menu_1.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_1.83a167c8aeb6e589c95b.jpg",
+    "static/media/Delivery-man.jpg": "/Shrimp-Zone-Project/static/media/Delivery-man.40218bfbb924366f8f95.jpg",
+    "static/media/restaurant.jpg": "/Shrimp-Zone-Project/static/media/restaurant.50aa0e92a30041c01f8f.jpg",
+    "static/media/shrimp-zone_menu_6.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_6.2804a080c0e29603aa41.jpg",
+    "static/media/shrimp-zone_menu_5.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_5.a7ea98e019514c6690d7.jpg",
+    "static/media/shrimp-zone_menu_3.jpg": "/Shrimp-Zone-Project/static/media/shrimp-zone_menu_3.806d33386d689525b771.jpg",
+    "index.html": "/Shrimp-Zone-Project/index.html",
+    "main.f38371fa.css.map": "/Shrimp-Zone-Project/static/css/main.f38371fa.css.map",
+    "main.a2440d2e.js.map": "/Shrimp-Zone-Project/static/js/main.a2440d2e.js.map",
+    "453.6cf27f8d.chunk.js.map": "/Shrimp-Zone-Project/static/js/453.6cf27f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38371fa.css",
+    "static/js/main.a2440d2e.js"
+  ]
+}
